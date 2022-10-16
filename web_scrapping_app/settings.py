@@ -22,7 +22,6 @@ TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-kz3#i3mvd3jrawysbe0a8i6hrev4gye697m!5v!@)p$wgmv=g2"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
